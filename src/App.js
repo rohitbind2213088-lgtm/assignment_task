@@ -1,10 +1,12 @@
-import Server from "./Server";
+
+import Ecommers from "./Ecommers";
 
 function App() {
     return (
         <div>
-             <Server />
-            
+
+            <Ecommers></Ecommers>
+
         </div>
     );
 }
